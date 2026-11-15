@@ -1,0 +1,15 @@
+# Python / Backend
+__pycache__/
+*.pyc
+venv/
+env/
+server/venv/
+
+# Ignore heavy dataset and temporary working directories completely
+server/plantvillage dataset/
+server/working_dataset/
+server/data_inspection/
+dataset_reports/
+*.csv
+*.zip
+*.tar.gz
