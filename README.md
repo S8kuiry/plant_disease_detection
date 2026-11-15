@@ -1,4 +1,4 @@
-# AgriGuard AI — Plant Disease Detection
+# Plant Disease Detection
 
 A React + FastAPI app that diagnoses plant leaf diseases using a MobileNetV2 deep‑learning model (38 classes). The pre‑trained model is bundled, so you can run it **without any dataset**.
 
